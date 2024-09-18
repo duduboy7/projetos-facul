@@ -1,0 +1,10 @@
+fruta = input()
+valorf = float(input())
+verdura = input()
+valorv = float(input())
+legume = input()
+valorl = float(input())
+
+print(f'A fruta é: {fruta:}, O valor é: R${valorf}')
+print(f'A verdura é: {verdura:}, O valor é: R${valorv}')
+print(f'O legume é: {legume:}, O valor é: R${valorl}')
